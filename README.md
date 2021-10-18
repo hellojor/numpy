@@ -24,4 +24,13 @@
 ## Math Functions
 
 [Basic mathematical functions](https://colab.research.google.com/github/hellojor/numpy/blob/main/Math%20Functions/Basic%20mathematical%20functions.ipynb)
+
+[計算元素平均值 - average() 與 mean()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Math%20Functions/average_mean.ipynb)
+
+[計算元素總和 - sum()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Math%20Functions/sum.ipynb)
+
+[計算中位數 - median()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Math%20Functions/Median.ipynb)
+
+[計算標準差 - std()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Math%20Functions/std_var.ipynb)
+
 []()

@@ -1,9 +1,8 @@
 # numpy
 
 ## Recognize Numpy
-[認識numpy](https://colab.research.google.com/github/hellojor/numpy/blob/main/Basic%20of%20Numpy.ipynb)
-
-[陣列重塑 - reshape(), resize()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/.ipynb_checkpoints/reshape_resize-checkpoint.ipynb)
+1. [認識numpy](https://colab.research.google.com/github/hellojor/numpy/blob/main/Basic%20of%20Numpy.ipynb)
+2. [陣列重塑 - reshape(), resize()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/.ipynb_checkpoints/reshape_resize-checkpoint.ipynb)
 
 [在陣列最後面加入元素 - append()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/.ipynb_checkpoints/append-checkpoint.ipynb)
 

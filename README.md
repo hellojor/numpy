@@ -11,6 +11,14 @@
 8. [陣列轉置 - transpose()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/transpose.ipynb)
 9. [陣列排列 - sort() 與 argsort()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/sort_argsort.ipynb)
 10. [陣列合并 - hstack() 與 vstack()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/hstack_vstack.ipynb)
+11. [建立「都是0」「都是1」「不限定元素值」的陣列 - zeros()、ones()、empty()]()
+12. [建立指定範圍的等差陣列 - arange()]()
+13. [建立指定範圍的等差陣列 - linspace()]()
+14. [將矩陣展平為1D - flatten()、ravel()]()
+15. [找出不是0的元素 - nonzero()]()
+16. [增加陣列的軸數 - np.newaxis]()
+17. [陣列合并 - np.r 與 np.c_ 物件]()
+18. []()
 
 ## Math Functions
 

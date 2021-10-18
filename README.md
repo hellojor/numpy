@@ -3,7 +3,8 @@
 ## Recognize Numpy
 認識numpy
 https://colab.research.google.com/github/hellojor/numpy/blob/main/Basic%20of%20Numpy.ipynb
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 ## Math Functions
 
 Basic mathematical functions

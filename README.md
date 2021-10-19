@@ -12,13 +12,15 @@
 9. [陣列排列 - sort() 與 argsort()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/sort_argsort.ipynb)
 10. [陣列合并 - hstack() 與 vstack()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/hstack_vstack.ipynb)
 11. [建立「都是0」「都是1」「不限定元素值」的陣列 - zeros()、ones()、empty()]()
-12. [建立指定範圍的等差陣列 - arange()]()
-13. [建立指定範圍的等差陣列 - linspace()]()
-14. [將矩陣展平為1D - flatten()、ravel()]()
-15. [找出不是0的元素 - nonzero()]()
-16. [增加陣列的軸數 - np.newaxis]()
-17. [陣列合并 - np.r 與 np.c_ 物件]()
-18. []()
+12. [建立指定範圍的等差陣列 - arange()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/arange.ipynb)
+13. [建立指定範圍的等差陣列 - linspace()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/linspace.ipynb)
+14. [將矩陣展平為1D - flatten()、ravel()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/flatten_ravel.ipynb)
+15. [找出不是0的元素 - nonzero()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/nonzero.ipynb)
+16. [增加陣列的軸數 - np.newaxis](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/newaxis.ipynb)
+17. [陣列合并 - np.r 與 np.c_ 物件](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/np.r_np.c_.ipynb)
+18. [陣列的儲存與讀取 - save() 與 load()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/save_load.ipynb)
+19. [以文字格式儲存與讀取陣列 - savetxt() 與 loadtxt()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/savetxt_loadtxt.ipynb)
+20. [建立隨機亂數的陣列 - random()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/random.ipynb)
 
 ## Math Functions
 

@@ -1,7 +1,7 @@
 # numpy
 
 ## Recognize Numpy
-1. [認識numpy](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/Basic%20of%20Numpy.ipynb)
+1. [認識numpy](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/Basic%20of%20Numpy.ipynb){:target="_blank"}
 2. [陣列重塑 - reshape(), resize()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/.ipynb_checkpoints/reshape_resize-checkpoint.ipynb)
 3. [在陣列最後面加入元素 - append()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/.ipynb_checkpoints/append-checkpoint.ipynb)
 4. [判斷陣列真假值 - all() 與 any()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/any_all.ipynb)

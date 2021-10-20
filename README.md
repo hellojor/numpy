@@ -1,5 +1,5 @@
 # numpy
-[go](http://stackoverflow.com){target="_blank"} //markdown
+
 ## Recognize Numpy
 1. [認識numpy](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/Basic%20of%20Numpy.ipynb)
 2. [陣列重塑 - reshape(), resize()](https://colab.research.google.com/github/hellojor/numpy/blob/main/Recognize%20Numpy/.ipynb_checkpoints/reshape_resize-checkpoint.ipynb)

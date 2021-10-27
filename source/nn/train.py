@@ -25,3 +25,10 @@ print(y_test[0:10])
 
 val_dict = nl.calculate(x_test, w_list, b_list)
 print(val_dict['y2'][0:10].round(2))
+
+'''
+import matplotlib.pyplot as plt
+plt.imshow(dataset['xtest'][8].reshape(28, 28), cmap="gray")
+plt.axis("off")
+plt.show()
+'''

@@ -10,7 +10,7 @@ x_test = dataset['x_test']
 y_test = dataset['y_test']
 w_list, b_list = nl.make_param([784, 100, 10])
 
-num_epochs = 1000; # 1
+num_epochs = 200; # 1
 
 for epoch in range(num_epochs):
     ra = np.random.randint(60000, size=60000)

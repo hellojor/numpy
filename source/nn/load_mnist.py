@@ -17,7 +17,6 @@ def load_image(filename):
 def load_label(filename):
     with gzip.open(filename, 'rb') as f:
         labels = np.frombuffer(f.read(), dtype=np.uint8, offset=8)
-        
         one_hot_labels = np.zeros((labels.shape[0], 10))
         for i in range(labels.shape[0]):
             one_hot_labels[i, labels[i]] = 1
